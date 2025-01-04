@@ -1,7 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4; /* Light gray background */
+}
+
 h1 {
-  color: blue; 
+  color: #333; /* Dark gray heading color */
+  text-align: center;
 }
 
 p {
-  text-align: center;
+  line-height: 1.6; /* Adjust line spacing */
+  color: #555; /* Slightly lighter text color */
 }
